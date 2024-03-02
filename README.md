@@ -1,6 +1,6 @@
 # DGPANet
 This repo contains the code for our paper "Dual-Guided Prototype Alignment Network for Few-Shot Medical Image Segmentation''
-![](thttps://github.com/shiyi0306/DGPANet/DGPANet_framework.png?raw=true) 
+![](https://github.com/shiyi0306/DGPANet/blob/main/DGPANet_framework.png?raw=true) 
 
 ### Dependencies
 Please install following essential dependencies (see requirements.txt):
