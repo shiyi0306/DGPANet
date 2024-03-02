@@ -5,7 +5,7 @@ This repo contains the code for our paper "Dual-Guided Prototype Alignment Netwo
 ### Dependencies
 Please install following essential dependencies (see requirements.txt):
 ```
-dcm2nii
+dcm2niix
 json5==0.8.5
 jupyter==1.0.0
 nibabel==2.5.1
@@ -15,8 +15,8 @@ Pillow>=8.1.1
 sacred==0.8.2
 scikit-image==0.18.3
 SimpleITK==1.2.3
-torch==1.10.2
-torchvision=0.11.2
+torch==1.10.1
+torchvision==0.11.2
 tqdm==4.62.3
 ```
 
