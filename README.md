@@ -3,7 +3,7 @@ This repo contains the code for our paper "Dual-Guided Prototype Alignment Netwo
 ![](thttps://github.com/shiyi0306/DGPANet/DGPANet_framework.png?raw=true) 
 
 ### Dependencies
-Please install following essential dependencies:
+Please install following essential dependencies (see requirements.txt):
 ```
 dcm2nii
 json5==0.8.5
