@@ -39,4 +39,4 @@ We also put the package `supervoxels` in `./data`, run our modified file `./data
 Run `bash scripts/val.sh`
 
 ### Acknowledgement
-This code is based on [Q-Net](https://arxiv.org/abs/2208.11451) by [Shen et al.](https://github.com/ZJLAB-AMMI/Q-Net) and [SSP](https://arxiv.org/abs/2207.11549) ECCV 2022 by [Fan et al.](https://github.com/fanq15/SSP). 
+This code is based on [Q-Net](https://arxiv.org/abs/2208.11451) by [Shen et al.](https://github.com/ZJLAB-AMMI/Q-Net) and [SSP](https://arxiv.org/abs/2207.11549) ECCV 2022 by [Fan et al.](https://github.com/fanq15/SSP) 
